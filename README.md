@@ -1,4 +1,3 @@
-# amaze
 https://halldororn.github.io/life/
 
 ## Conway's game of life has 4 Rules:
